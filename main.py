@@ -66,4 +66,4 @@ async def on_message(message: discord.Message):
 	await bot.process_commands(message)
 
 
-bot.run(token)
+bot.run(MTIyODM3ODY4NzE1ODc1MTI2Mw.G7_J9F.9JvfFHpWkwMO57-jUo8y1ipqd4KpDDMh_PwTJE)
